@@ -1,5 +1,3 @@
-# Pesquisa-de-satisfacao
-
 # 📊 Pesquisa de Satisfação
 
 Este projeto foi desenvolvido como parte de um exercício prático do curso técnico em **Desenvolvimento de Sistemas**, com o objetivo de simular uma pesquisa de opinião.
