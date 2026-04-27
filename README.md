@@ -1,8 +1,8 @@
 # Pesquisa-de-satisfacao
 
-# 📊 Pesquisa de Satisfação - TudoWeb
+# 📊 Pesquisa de Satisfação
 
-Este projeto foi desenvolvido como parte de um exercício prático do curso técnico em **Desenvolvimento de Sistemas**, com o objetivo de simular uma pesquisa de opinião realizada pela empresa **TudoWeb**.
+Este projeto foi desenvolvido como parte de um exercício prático do curso técnico em **Desenvolvimento de Sistemas**, com o objetivo de simular uma pesquisa de opinião.
 
 A aplicação foi construída em Python e tem como finalidade coletar e analisar a satisfação dos clientes em relação ao atendimento prestado.
 
